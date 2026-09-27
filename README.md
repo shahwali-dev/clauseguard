@@ -502,6 +502,3 @@ Always consult a qualified legal professional for legal decisions.
 This project is intended as a hackathon project.
 
 License details may be added by the project authors.
-
-```
-```
