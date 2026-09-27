@@ -16,7 +16,7 @@ ClauseGuard is an AI-powered contract analysis tool that identifies potential co
 
 * **Live Demo:** https://clauseguard-labs.vercel.app/
 * **GitHub:** https://github.com/shahwali-dev/clauseguard
-* **Demo Video:** https://youtu.be/lUKRRT1O2_A
+* **Demo Video:** https://youtu.be/ymJQQvJKqeg
 
 ---
 
@@ -822,7 +822,7 @@ https://github.com/shahwali-dev/clauseguard
 
 **Demo Video**
 
-https://youtu.be/lUKRRT1O2_A
+https://youtu.be/ymJQQvJKqeg
 
 ---
 
